@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/CUBOT/CUBOT_ECHO
+LOCAL_PATH := device/CUBOT/ECHO
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_CUBOT_ECHO.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_ECHO.mk
